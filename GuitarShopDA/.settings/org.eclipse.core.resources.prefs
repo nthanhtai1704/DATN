@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/banner_right.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/header.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/productinfo.jsp=UTF-8
+encoding//src/udn/ute/guitarshopda/servlet/ChangePassServlet.java=UTF-8
+encoding//src/udn/ute/guitarshopda/servlet/ControllerConfirmServlet.java=UTF-8
+encoding//src/udn/ute/guitarshopda/servlet/EmailSendingServlet.java=UTF-8
+encoding//src/udn/ute/guitarshopda/servlet/LoginServlet.java=UTF-8
+encoding//src/udn/ute/guitarshopda/servlet/OrderProductServlet.java=UTF-8
+encoding//src/udn/ute/guitarshopda/servlet/UpdateOrderServlet.java=UTF-8

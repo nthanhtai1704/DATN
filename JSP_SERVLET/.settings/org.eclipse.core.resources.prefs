@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/view/homepage.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/message.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/pageAdmin.jsp=UTF-8
+encoding//WebContent/WEB-INF/view/pageUser.jsp=UTF-8
+encoding//WebContent/style/Style.css=UTF-8
+encoding//src/vn/msita/jspservlet/servlet/LoginServlet.java=UTF-8
